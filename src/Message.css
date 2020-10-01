@@ -1,0 +1,31 @@
+.msge{
+   
+    border-radius: 13px;
+
+margin: 10px;
+margin-left:auto;
+width:fit-content;
+ background-color: rgb(22, 230, 230);
+text-align: left !important;
+box-shadow: 8px 8px 5px #444;
+
+
+}
+.msg_user{
+    margin-right:auto;
+    border-radius: 13px;
+
+    margin: 10px;
+    width:fit-content;
+    background-color: rgb(201, 209, 219);
+    box-shadow: 8px 8px 5px #444;
+
+}
+.user{
+    background-color: rgb(255, 0, 0);
+
+}
+.guest{
+    background-color: rgb(208, 255, 0);
+
+}
